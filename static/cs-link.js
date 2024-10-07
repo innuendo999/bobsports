@@ -1,5 +1,4 @@
 //
-var randomNumber = Math.floor(Math.random() * 90000) + 10000;
 var code_ma = {
 
   //å¼€äº‘ä½“è‚²   43946837
